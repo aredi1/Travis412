@@ -13,6 +13,5 @@ public class SimpleCalculatorTest {
 		assertEquals(calc.minus(5, 3), 2);
 		assertEquals(calc.multiply(1, 1), 1);
 		assertEquals(calc.divide(1, 1), 1);
-		assertEquals(calc.mod(1, 1), 0);
 	}
 }
